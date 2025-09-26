@@ -1,0 +1,26 @@
+﻿# === Node.js backend (nodedemonslayer) ===
+nodedemonslayer/node_modules/
+nodedemonslayer/.env
+nodedemonslayer/logs/
+nodedemonslayer/tmp/
+nodedemonslayer/debug.log
+nodedemonslayer/npm-debug.log*
+
+# === React frontend (reactdemonslayer) ===
+reactdemonslayer/node_modules/
+reactdemonslayer/.env
+reactdemonslayer/build/
+reactdemonslayer/dist/
+reactdemonslayer/.cache/
+reactdemonslayer/debug.log
+reactdemonslayer/npm-debug.log*
+reactdemonslayer/yarn-error.log
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.swp

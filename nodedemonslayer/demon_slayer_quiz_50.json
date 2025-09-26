@@ -1,0 +1,573 @@
+
+    [
+        {
+            "id": 1,
+            "difficulty": "facile",
+            "question": "Qui est la sœur de Tanjiro ?",
+            "options": [
+                "Nezuko",
+                "Shinobu",
+                "Mitsuri",
+                "Kanao"
+            ],
+            "answer": "Nezuko"
+        },
+        {
+            "id": 2,
+        "difficulty": "facile",
+        "question": "Quelle arme utilisent les pourfendeurs de démons ?",
+        "options": [
+            "Arc",
+            "Katana",
+            "Hache",
+            "Lance"
+        ],
+        "answer": "Katana"
+    },
+    {
+        "id": 3,
+        "difficulty": "facile",
+        "question": "Comment s’appelle le garçon qui a un sanglier sur la tête ?",
+        "options": [
+            "Zenitsu",
+            "Inosuke",
+            "Rengoku",
+            "Giyu"
+        ],
+        "answer": "Inosuke"
+    },
+    {
+        "id": 4,
+        "difficulty": "facile",
+        "question": "Qui est le meilleur ami de Tanjiro ?",
+        "options": [
+            "Inosuke",
+            "Zenitsu",
+            "Nezuko",
+            "Rengoku"
+        ],
+        "answer": "Zenitsu"
+    },
+    {
+        "id": 5,
+        "difficulty": "facile",
+        "question": "Quel est le motif du kimono de Tanjiro ?",
+        "options": [
+            "Rayures rouges",
+            "Carreaux verts et noirs",
+            "Fleurs roses",
+            "Cercles bleus"
+        ],
+        "answer": "Carreaux verts et noirs"
+    },
+    {
+        "id": 6,
+        "difficulty": "moyen",
+        "question": "Qui est le Pilier de l’Eau ?",
+        "options": [
+            "Giyu Tomioka",
+            "Sanemi",
+            "Obanai",
+            "Rengoku"
+        ],
+        "answer": "Giyu Tomioka"
+    },
+    {
+        "id": 7,
+        "difficulty": "moyen",
+        "question": "Quel démon a tué la famille de Tanjiro ?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Rui",
+            "Akaza",
+            "Douma"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "id": 8,
+        "difficulty": "moyen",
+        "question": "Quelle est la peur de Zenitsu ?",
+        "options": [
+            "Fantômes",
+            "Araignées",
+            "Démons",
+            "Tonnerre"
+        ],
+        "answer": "Démons"
+    },
+    {
+        "id": 9,
+        "difficulty": "moyen",
+        "question": "Qui est le maître des pourfendeurs de démons ?",
+        "options": [
+            "Kagaya Ubuyashiki",
+            "Muzan Kibutsuji",
+            "Kyojuro Rengoku",
+            "Uzui Tengen"
+        ],
+        "answer": "Kagaya Ubuyashiki"
+    },
+    {
+        "id": 10,
+        "difficulty": "moyen",
+        "question": "Quel est le rôle de Kanao Tsuyuri ?",
+        "options": [
+            "Pilier",
+            "Apprentie Slayer",
+            "Démon",
+            "Médecin"
+        ],
+        "answer": "Apprentie Slayer"
+    },
+    {
+        "id": 11,
+        "difficulty": "avance",
+        "question": "Qui a combattu Akaza lors du film Le Train de l’Infini ?",
+        "options": [
+            "Tanjiro",
+            "Inosuke",
+            "Rengoku",
+            "Giyu"
+        ],
+        "answer": "Rengoku"
+    },
+    {
+        "id": 12,
+        "difficulty": "avance",
+        "question": "Quelle est la respiration utilisée par Shinobu Kocho ?",
+        "options": [
+            "Insecte",
+            "Eau",
+            "Vent",
+            "Feu"
+        ],
+        "answer": "Insecte"
+    },
+    {
+        "id": 13,
+        "difficulty": "avance",
+        "question": "Quel démon fait partie des Douze Lunes Supérieures et utilise la glace ?",
+        "options": [
+            "Akaza",
+            "Douma",
+            "Gyutaro",
+            "Kokushibo"
+        ],
+        "answer": "Douma"
+    },
+    {
+        "id": 14,
+        "difficulty": "avance",
+        "question": "Qui est le frère de Nezuko ?",
+        "options": [
+            "Zenitsu",
+            "Tanjiro",
+            "Inosuke",
+            "Rengoku"
+        ],
+        "answer": "Tanjiro"
+    },
+    {
+        "id": 15,
+        "difficulty": "avance",
+        "question": "Quelle est la particularité de la lame de Mitsuri Kanroji ?",
+        "options": [
+            "Elle est flexible",
+            "Elle est enflammée",
+            "Elle est noire",
+            "Elle est brisée"
+        ],
+        "answer": "Elle est flexible"
+    },
+    {
+        "id": 16,
+        "difficulty": "avance",
+        "question": "Quel est le vrai nom du démon Kibutsuji ?",
+        "options": [
+            "Muzan",
+            "Douma",
+            "Akaza",
+            "Kokushibo"
+        ],
+        "answer": "Muzan"
+    },
+    {
+        "id": 17,
+        "difficulty": "avance",
+        "question": "Qui est le Pilier du Son ?",
+        "options": [
+            "Uzui Tengen",
+            "Kyojuro Rengoku",
+            "Obanai Iguro",
+            "Giyu Tomioka"
+        ],
+        "answer": "Uzui Tengen"
+    },
+    {
+        "id": 18,
+        "difficulty": "avance",
+        "question": "Quelle relation existe entre Kokushibo et Yoriichi ?",
+        "options": [
+            "Frères jumeaux",
+            "Ennemis jurés",
+            "Maître et élève",
+            "Cousins"
+        ],
+        "answer": "Frères jumeaux"
+    },
+    {
+        "id": 19,
+        "difficulty": "avance",
+        "question": "Qui est Gyutaro ?",
+        "options": [
+            "Un démon de la Lune Supérieure",
+            "Un Pilier",
+            "Un ami de Zenitsu",
+            "Un forgeron"
+        ],
+        "answer": "Un démon de la Lune Supérieure"
+    },
+    {
+        "id": 20,
+        "difficulty": "avance",
+        "question": "Quel est le nom complet de Rengoku ?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Sanemi Rengoku",
+            "Uzui Rengoku",
+            "Tomioka Rengoku"
+        ],
+        "answer": "Kyojuro Rengoku"
+    },
+    {
+        "id": 21,
+        "difficulty": "avance",
+        "question": "Quelle est la respiration utilisée par Tanjiro après l’Eau ?",
+        "options": [
+            "Soleil",
+            "Vent",
+            "Insecte",
+            "Son"
+        ],
+        "answer": "Soleil"
+    },
+    {
+        "id": 22,
+        "difficulty": "avance",
+        "question": "Qui est l’ancêtre lié à Tanjiro ?",
+        "options": [
+            "Yoriichi Tsugikuni",
+            "Kokushibo",
+            "Kagaya",
+            "Akaza"
+        ],
+        "answer": "Yoriichi Tsugikuni"
+    },
+    {
+        "id": 23,
+        "difficulty": "avance",
+        "question": "Quel démon utilise la soie d’araignée ?",
+        "options": [
+            "Rui",
+            "Akaza",
+            "Gyutaro",
+            "Enmu"
+        ],
+        "answer": "Rui"
+    },
+    {
+        "id": 24,
+        "difficulty": "avance",
+        "question": "Quelle est la couleur de la lame de Giyu ?",
+        "options": [
+            "Bleue",
+            "Rouge",
+            "Jaune",
+            "Noire"
+        ],
+        "answer": "Bleue"
+    },
+    {
+        "id": 25,
+        "difficulty": "avance",
+        "question": "Qui a affronté Gyutaro et Daki ?",
+        "options": [
+            "Tanjiro, Nezuko, Uzui, Inosuke et Zenitsu",
+            "Rengoku seul",
+            "Shinobu et Mitsuri",
+            "Sanemi et Obanai"
+        ],
+        "answer": "Tanjiro, Nezuko, Uzui, Inosuke et Zenitsu"
+    },
+    {
+        "id": 26,
+        "difficulty": "ludique",
+        "question": "Nezuko peut parler normalement.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 27,
+        "difficulty": "ludique",
+        "question": "Tanjiro porte un kimono à carreaux verts et noirs.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 28,
+        "difficulty": "ludique",
+        "question": "Zenitsu s’endort quand il a peur.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 29,
+        "difficulty": "ludique",
+        "question": "Inosuke utilise deux katanas cassés.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 30,
+        "difficulty": "ludique",
+        "question": "Muzan peut se transformer en femme.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 31,
+        "difficulty": "ludique",
+        "question": "Les Piliers sont au nombre de neuf.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 32,
+        "difficulty": "ludique",
+        "question": "Kanao utilise une pièce pour prendre des décisions.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 33,
+        "difficulty": "ludique",
+        "question": "Rengoku a survécu au combat contre Akaza.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 34,
+        "difficulty": "ludique",
+        "question": "Douma est le Pilier de la Flamme.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 35,
+        "difficulty": "ludique",
+        "question": "Uzui Tengen se bat avec trois épées.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 36,
+        "difficulty": "avance",
+        "question": "Quel est le nom du démon qui contrôle les tambours ?",
+        "options": [
+            "Kyogai",
+            "Rui",
+            "Akaza",
+            "Enmu"
+        ],
+        "answer": "Kyogai"
+    },
+    {
+        "id": 37,
+        "difficulty": "avance",
+        "question": "Qui est le Pilier du Serpent ?",
+        "options": [
+            "Obanai Iguro",
+            "Sanemi",
+            "Douma",
+            "Gyomei"
+        ],
+        "answer": "Obanai Iguro"
+    },
+    {
+        "id": 38,
+        "difficulty": "avance",
+        "question": "Quel Pilier est surnommé le plus fort ?",
+        "options": [
+            "Gyomei Himejima",
+            "Uzui Tengen",
+            "Giyu Tomioka",
+            "Sanemi"
+        ],
+        "answer": "Gyomei Himejima"
+    },
+    {
+        "id": 39,
+        "difficulty": "avance",
+        "question": "Quel est le rêve d’Enmu dans le Train de l’Infini ?",
+        "options": [
+            "Plonger les passagers dans des rêves",
+            "Devenir un Pilier",
+            "Se lier avec Muzan",
+            "Tuer Rengoku"
+        ],
+        "answer": "Plonger les passagers dans des rêves"
+    },
+    {
+        "id": 40,
+        "difficulty": "avance",
+        "question": "Qui est le démon de la Lune Supérieure Un ?",
+        "options": [
+            "Kokushibo",
+            "Akaza",
+            "Douma",
+            "Gyutaro"
+        ],
+        "answer": "Kokushibo"
+    },
+    {
+        "id": 41,
+        "difficulty": "avance",
+        "question": "Quel est le nom complet de Shinobu ?",
+        "options": [
+            "Shinobu Kocho",
+            "Shinobu Tomioka",
+            "Shinobu Iguro",
+            "Shinobu Kanroji"
+        ],
+        "answer": "Shinobu Kocho"
+    },
+    {
+        "id": 42,
+        "difficulty": "avance",
+        "question": "Quelle est la respiration de Rengoku ?",
+        "options": [
+            "Flamme",
+            "Soleil",
+            "Vent",
+            "Eau"
+        ],
+        "answer": "Flamme"
+    },
+    {
+        "id": 43,
+        "difficulty": "avance",
+        "question": "Quel démon utilise des tambours pour manipuler l’espace ?",
+        "options": [
+            "Kyogai",
+            "Rui",
+            "Gyutaro",
+            "Douma"
+        ],
+        "answer": "Kyogai"
+    },
+    {
+        "id": 44,
+        "difficulty": "avance",
+        "question": "Quel est le rôle de Kagaya Ubuyashiki ?",
+        "options": [
+            "Chef des pourfendeurs",
+            "Pilier",
+            "Ancien Slayer",
+            "Forgeron"
+        ],
+        "answer": "Chef des pourfendeurs"
+    },
+    {
+        "id": 45,
+        "difficulty": "avance",
+        "question": "Quelle est la couleur de la lame de Zenitsu ?",
+        "options": [
+            "Jaune",
+            "Bleue",
+            "Rouge",
+            "Noire"
+        ],
+        "answer": "Jaune"
+    },
+    {
+        "id": 46,
+        "difficulty": "ludique",
+        "question": "Tanjiro est gaucher.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 47,
+        "difficulty": "ludique",
+        "question": "Muzan est le premier démon de l’histoire.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 48,
+        "difficulty": "ludique",
+        "question": "Shinobu est plus grande que Mitsuri.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 49,
+        "difficulty": "ludique",
+        "question": "Nezuko peut rétrécir et grandir sa taille.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Vrai"
+    },
+    {
+        "id": 50,
+        "difficulty": "ludique",
+            "question": "Zenitsu peut utiliser plus d’une forme de sa respiration.",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Faux"
+        }
+    ]
