@@ -1,0 +1,554 @@
+{
+    "pagination": {
+        "totalElements": 39,
+        "elementsOnPage": 39,
+        "currentPage": 1,
+        "totalPages": 1,
+        "previousPage": "",
+        "nextPage": ""
+    },
+    "content": [
+        {
+            "id": 1,
+            "name": "Souffle De Solier",
+            "description": "Style de souffle connu et enseigné uniquement par la famille Kamado, révélé plus tard comme étant le premier style de souffle",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sun-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 1,
+                    "name": "Tanjiro Kamado",
+                    "description": "Il est le protagoniste principal de Demon Slayer. Il a rejoint la Demon Slayer Corp pour trouver un remède permettant de transformer sa sœur, Nezuko Kamado, en humaine et de traquer et tuer les démons."
+                },
+                {
+                    "id": 45,
+                    "name": "Yoriichi",
+                    "description": "C'est un tueur de démons qui a vécu il y a près de 500 ans, durant l'ère Sengoku. Il était le tueur de démons le plus puissant ayant jamais existé."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Souffle De l'Eau",
+            "description": "Le souffle de l'eau est l’un des cinq principaux styles de souffle directement dérivés de souffle de solier.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/water-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 1,
+                    "name": "Tanjiro Kamado",
+                    "description": "Il est le protagoniste principal de Demon Slayer. Il a rejoint la Demon Slayer Corp pour trouver un remède permettant de transformer sa sœur, Nezuko Kamado, en humaine et de traquer et tuer les démons."
+                },
+                {
+                    "id": 3,
+                    "name": "Giyu Tomioka",
+                    "description": "C'est un tueur de démons de la Brigade des Tueurs de Démons et l'actuel Pilier de l'Eau. Il possède une personnalité réservée et un sens aigu de la justice."
+                },
+                {
+                    "id": 4,
+                    "name": "Sakonji Urokodaki",
+                    "description": "Sakonji Urokodaki est un membre retraité du Corps des Pourfendeurs de Démons, ancien Pilier de l'Eau. Principal maître du Souffle de l'Eau, il a entraîné Makomo, Sabito, Giyu Tomioka et Tanjiro Kamado."
+                },
+                {
+                    "id": 5,
+                    "name": "Sabito",
+                    "description": "Sabito était un ancien apprenti de Sakonji Urokodaki. Il semblait assister Tanjiro Kamado dans sa préparation à l'examen de sélection finale."
+                },
+                {
+                    "id": 6,
+                    "name": "Makomo",
+                    "description": "Makomo et Sabito étaient tous deux orphelins de leurs familles respectives et adoptés par Sakonji, qui les a tous deux formés et leur a permis d'assister à la sélection finale du Demon Slayer Corps."
+                },
+                {
+                    "id": 11,
+                    "name": "Aoi Kanzaki",
+                    "description": "Aoi Kanzaki est une tueuse de démons du Corps des Tueurs de Démons. Cependant, elle travaille comme assistante au Manoir des Papillons, plutôt que de se lancer au front pour combattre les démons."
+                },
+                {
+                    "id": 21,
+                    "name": "Murata",
+                    "description": "On sait peu de choses sur Murata, cependant, il n'apprécie pas qu'un chasseur de rang inférieur le réprimande. Il est quelque peu timide, mais il semble plus courageux que la plupart."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Sang Enflammé",
+            "description": "L'Art du Démon du Sang de Nezuko lui permet de transformer son sang en flammes roses à volonté. Ses flammes ont une propriété spéciale qui les rend exclusivement nocives pour les démons.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/combustible-blood.webp",
+            "combat_style_character": [
+                {
+                    "id": 2,
+                    "name": "Nezuko Kamado",
+                    "description": "C'est une démone, la sœur cadette de Tanjiro Kamado et l'un des deux derniers membres de la famille Kamado. Autrefois humaine, elle fut attaquée et transformée en démon par Muzan Kibutsuji."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Souffle De La Foudre",
+            "description": " Le souffle de la foudre est un style de souffle qui imite la foudre, en particulier des coups rapides et des mouvements semblables à la foudre déchirant le ciel, et le reproduit avec les mouvements, les techniques et les capacités de l'utilisateur.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/thunder-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 9,
+                    "name": "Zenitsu Agatsuma",
+                    "description": "Zenitsu Agatsuma est l'un des personnages principaux de Demon Slayer et, avec Inosuke Hashibira, le compagnon de voyage de Tanjiro Kamado et Nezuko Kamado. Il est également un Demon Slayer de l'Armée des Demon Slayer."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "manipulation de la chair",
+            "description": "La manipulation de la chair est une capacité surnaturelle possédée par les démons qui leur permet de modifier et de contrôler leur propre chair et leur corps.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 7,
+                    "name": "Démon de la Main",
+                    "description": "Le Démon de la Main était l'antagoniste principal de l'Arc de la Sélection Finale de Demon Slayer. C'était un démon notoire qui tua treize apprentis de Sakonji Urokodaki."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Double maniement",
+            "description": " Genya utilise un fusil à double canon et une lame Nichirin. Il excelle dans le combat à courte et longue distance.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 8,
+                    "name": "Genya Shinazugawa",
+                    "description": "Il est le frère cadet du Wind Hashira et en tant que l'un des cinq qui ont survécu à la sélection finale, Genya possède une base relativement solide en tant que tueur de démons même sans utiliser un style de respiration."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Souffle De La Bête",
+            "description": " Beast Breathing est un style de souffle qui imite les bêtes/animaux sauvages, en particulier leur nature imprévisible, féroce et sauvage, y compris les mouvements, les attaques et les sens, et le reproduit avec les mouvements, les techniques et les capacités de l'utilisateur.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/beast-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 10,
+                    "name": "Inosuke Hashibira",
+                    "description": "Inosuke est colérique, conflictuel, abrasif et fier. Il aime toujours se croire le plus fort combattant, défiant constamment la plupart des gens qu'il croise et souhaitant que les autres le respectent et le félicitent pour son talent."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Souffle De La Fleur",
+            "description": "Le souffle de la fleur est un style de respiration qui imite à la fois les fleurs vivaces et les fleurs fruitières et les reproduit avec les mouvements, les techniques et les capacités de l'utilisateur.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 12,
+                    "name": "Kanao Tsuyuri",
+                    "description": "Kanao Tsuyuri est la sœur adoptive de Shinobu et Kanae Kocho. Incapable de prendre des décisions seule, elle doit lancer une pièce pour décider de la voie à suivre lorsqu'elle ne sait pas quoi faire."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Dmaine Des Marais",
+            "description": "Le Démon des Marais a pu invoquer une dimension de marais de poche dans laquelle il peut naviguer librement.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 13,
+                    "name": "Démon des marais",
+                    "description": "Il est le principal antagoniste de l'Arc du Tourbillon du Kidnapper. C'était un démon qui a subi une série d'enlèvements lors de la première mission de Tanjiro Kamado pour le Corps des Tueurs de Démons."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Biokinésie",
+            "description": "L'art du démon du sang de Muzan lui confère de puissantes capacités biocinétiques, notamment la capacité de manipuler son corps à volonté et de changer de forme instantanément.  ",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/biokinesis.webp",
+            "combat_style_character": [
+                {
+                    "id": 14,
+                    "name": "Muzan Kibutsuji",
+                    "description": "Muzan Kibutsuji est le principal antagoniste de Demon Slayer. Roi Démon, géniteur de tous les démons existants, il est également le chef des Douze Kizuki, une organisation composée des douze démons les plus puissants sous son commandement direct."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Envoûtement de sang",
+            "description": "Tamayo peut créer des illusions et induire des hallucinations qui affectent la vue de sa cible en l'entourant de motifs floraux.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 15,
+                    "name": "Tamayo",
+                    "description": "Tamayo est un démon doux, sage et incroyablement intelligent. Elle a consacré la majeure partie de sa vie à la recherche sur les démons et la transformation humaine en démons."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Bandeau ",
+            "description": "L'art du démon du sang de Yushiro lui permet de créer des talismans en papier qui possèdent la capacité de masquer ou de révéler la présence de quelque chose.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 16,
+                    "name": "Yushiro",
+                    "description": "Il ne se soucie que de Tamayo et déteste quand les autres l'empêchent de passer du temps avec elle."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Balles Temari",
+            "description": "L'Art Démoniaque de Susamaru lui permet d'invoquer des ballons de handball temari à volonté. Extrêmement résistants, ces ballons résistent aux lancers et aux coups de pied à grande vitesse et détruisent tout objet qu'ils touchent.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 17,
+                    "name": "Susamaru",
+                    "description": "Susamaru, aussi connue sous le nom de Démon Temari, était, avec Yahaba, l'un des deux principaux antagonistes de l'arc d'Asakusa de Demon Slayer. C'était une démone trompée qui lui a fait croire qu'elle appartenait aux Douze Lunes Démoniaques."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Flèche de Koketsu",
+            "description": "L'art du démon du sang de Yahaba lui permettait d'invoquer et de manipuler des flèches rouges invisibles en clignant des yeux sur chacune de ses paumes.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 18,
+                    "name": "Yahaba",
+                    "description": "Yahaba, aussi connu sous le nom de Démon Flèche, était l'un des deux principaux antagonistes de l'arc d'Asakusa de Demon Slayer, avec Susamaru. C'était un démon qui avait été trompé en se faisant passer pour un membre des Douze Lunes Démoniaques."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Tambour",
+            "description": "Kyogai possédait 6 tambours Tsuzumi implantés dans différentes parties de son corps et chacun d'entre eux, lorsqu'il était joué, produisait un certain effet sur son environnement.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 19,
+                    "name": "Kyogai",
+                    "description": "Kyogai était un démon autrefois affilié aux Douze Lunes Démoniaques, ayant auparavant occupé la position de Rang Inférieur Six avant que Muzan Kibutsuji ne l'excommunie pour avoir atteint sa limite en tant que démon et perdu sa capacité à devenir plus fort."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Souffle De l'Insecte",
+            "description": "Le souffle des Insectes est une technique de respiration qui imite les insectes, notamment leurs piqûres et mouvements mortels, et les reproduit avec les mouvements, techniques et capacités de l'utilisateur. Elle est dérivée du souffle des Fleurs.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/insect-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 20,
+                    "name": "Shinobu Kocho",
+                    "description": "Shinobu est l'actuelle Pilier des Insectes. Après qu'un démon a tué ses parents, elle a rejoint l'Armée des Pourfendeurs de Démons afin d'empêcher que d'autres ne subissent le même sort."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Poison Manipulation",
+            "description": "La capacité la plus puissante et la plus dangereuse du démon araignée Son est son pouvoir de générer et de manipuler un poison mortel.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 22,
+                    "name": "Spider Fils",
+                    "description": "Membre de la Famille Araignée, il prend la forme d'une araignée géante à tête humaine. Son visage, comme celui de Mère et Fille, présente les mêmes traits : points rouges, peau blanche et cheveux semblables à ceux de son « petit frère » Rui."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Manipulation de la soie",
+            "description": "Comme sa « mère » et Rui, la fille démon araignée peut manipuler des fils fabriqués à partir de ses propres cellules, cette fois d'une manière similaire à la soie qui forme un cocon au lieu de fils qui ressemblent à des fils.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 23,
+                    "name": "Spider Fille",
+                    "description": "Elle était membre de la famille Spider, et elle se révèle être la plus prudente de sa « famille », ayant plutôt choisi d'observer et de prendre du recul plutôt que de se lancer directement dans la bataille contre les tueurs de démons."
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Marionnettes",
+            "description": "Mère, démon araignée, pouvait créer et manifester du bout de ses doigts des fils capables de recouvrir une montagne entière. Elle utilisait ses fils d'une manière unique : ils lui permettaient de manipuler des corps comme des marionnettes.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 24,
+                    "name": "Spider Mère",
+                    "description": "Elle était membre de la Famille Araignée. Comme la plupart des démons, Mère était cruelle, insensible et meurtrière envers les humains. Elle contrôlait sans pitié des dizaines de Tueurs de Démons grâce à ses fils et les manipulait pour les forcer à s'entretuer."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Métamorphose",
+            "description": "Le démon araignée Père possédait la capacité de se débarrasser de sa peau extérieure afin de se transformer en une forme plus puissante avec une puissance physique accrue et des capacités de régénération, le rendant encore plus fort et durable que sous sa forme originale.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 25,
+                    "name": "Spider Père",
+                    "description": "Il était membre de la Famille Araignée. Physiquement, il était le plus redoutable de sa « famille », doté d'une grande taille et d'une constitution imposante."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Manipulation de toile",
+            "description": "L'Art du Démon du Sang de Rui lui permettait de créer de fins fils, indiscernables de la soie, à partir de sa propre chair et de les manipuler à sa guise. Il tendait généralement les fils du bout des doigts, tel un marionnettiste.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/thread-manipulation.webp",
+            "combat_style_character": [
+                {
+                    "id": 26,
+                    "name": "Rui",
+                    "description": "Rui est le chef de la Famille Araignée. Il fut le principal antagoniste de l'Arc du Mont Natagumo de Demon Slayer. C'était un démon affilié aux Douze Lunes Démoniaques, occupant le rang de Cinq Inférieur."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Souffle Du Son",
+            "description": "Un style de respiration créé par Tengen lui-même. La Respiration Sonore semble combiner l'ouïe développée de Tengen, sa technique de partition musicale, son expertise shinobi, ainsi que ses doubles couperets Nichirin et ses bombes anti-démons.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sound-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 28,
+                    "name": "Tengen Uzui",
+                    "description": "Tengen est le Pilier du Son du Corps des Pourfendeurs de Démons et un combattant très puissant et talentueux. C'est un individu excentrique et flamboyant, toujours en quête d'extravagance, affichant un besoin profond de raffinement et d'exception."
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Souffle De l'Amour",
+            "description": "Le Souffle d'Amour intègre des éléments de la souplesse surhumaine de Mitsuri et de son épée Nichirin, un fouet unique. Grâce à ce style de souffle, elle peut lancer des attaques couvrant une large amplitude de mouvement.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/love-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 29,
+                    "name": "Mitsuri Kanroji",
+                    "description": "Mitsuri est la Pilier de l'Amour de l'Armée des Pourfendeurs de Démons. Toujours bienveillante envers les autres, elle ne montre aucune pitié face aux démons malgré son air doux et innocent."
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Souffle De La Flame",
+            "description": "Le souffle des Flammes est l'un des cinq principaux styles de souffle, directement dérivé de souffle de solier. Ce style de souffle imite les flammes, et plus particulièrement leur puissante chaleur et leur brûlure, et les reproduit grâce aux mouvements, aux techniques et aux capacités de l'utilisateur.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/flame-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 30,
+                    "name": "Kyojuro Rengoku",
+                    "description": "Kyojuro Rengoku, le Pilier de la Flamme, possède des qualités physiques exceptionnelles et un esprit indomptable, faisant de lui un redoutable guerrier au sein du Corps des Pourfendeurs de Démons. Fort de son endurance incroyable, de sa résistance immense, de sa vitesse, de ses réflexes et de ses aptitudes au combat impeccables, Rengoku s'impose comme un monstre sur le champ de bataille, surpassant ses adversaires et démontrant sa maîtrise du Souffle de Flamme."
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Souffle De La Brume",
+            "description": "Un style de souffle que Muichiro a appris auprès d'un pratiquant de Souffle de Brume. Ce style désoriente l'ennemi et protège simultanément l'utilisateur grâce à une enveloppe de brume, et porte des coups en un clin d'œil.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/mist-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 31,
+                    "name": "Muichiro Tokito",
+                    "description": "Il est le Pilier de la Brume et malgré sa personnalité maladroite et peu accommodante, Muichiro est un prodige de la Demon Slayer Corp. Impassible et, parfois, obtus, il a tendance à ne penser que par lui-même et fonctionne uniquement sur la logique. "
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Souffle De La Roche",
+            "description": "Un style de souffle que Gyomei maîtrise lui-même ou apprend auprès d'un pratiquant. Dans sa propre version, Gyomei utilise son ouïe surhumaine et sa force physique pour utiliser un fléau à pointes et une hache afin d'en appliquer les techniques.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 32,
+                    "name": "Gyomei Himejima",
+                    "description": "C'est un pourfendeur de démons de la Brigade des Pourfendeurs de Démons et l'actuel Pilier de Pierre. Gyomei est également le mentor de Genya Shinazugawa. Il est considéré comme le plus puissant des pourfendeurs de démons de toute la Brigade."
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Souffle du Serpent",
+            "description": "Un style de souffle qu'Obanai a lui-même créé et maîtrisé. Il utilise des torsions et des rotations semblables à celles d'un serpent qui rampe pour attaquer. Obanai a également appris à intégrer son serpent de compagnie, Kaburamaru, à ce style de souffle, le rendant ainsi extrêmement efficace.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/serpent-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 33,
+                    "name": "Obanai Iguro",
+                    "description": "Pourfendeur de démons de la Brigade des Pourfendeurs de démons et actuel Pilier du Serpent, Obanai est un individu très dur et strict qui ne se soucie pas de ceux qui ne respectent pas les règles de la Brigade des Pourfendeurs de démons."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Souffle Du Vent",
+            "description": "Un style de souffle que Sanemi a appris et maîtrisé grâce à l'enseignement d'un cultivateur inconnu. Le souffle du vent imite le vent, en particulier les puissants torrents d'air et les tourbillons, et le reproduit grâce aux mouvements, techniques et capacités de son utilisateur.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/wind-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 34,
+                    "name": "Sanemi Shinazugawa",
+                    "description": "Il est un pourfendeur de démons de la Brigade des pourfendeurs de démons et actuel Pilier du Vent. Sanemi est également le frère aîné de Genya Shinazugawa. Son comportement froid, grossier et méprisant est dû à la perte de trop de personnes qui lui étaient chères par le passé."
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Induction du sommeil",
+            "description": "L'Art du Démon du Sang d'Enmu lui confère le pouvoir d'endormir profondément n'importe qui. Il y parvient par différents moyens, certains plus subtils que d'autres, mais tous rendent ses ennemis vulnérables et incapables de combattre.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/sleep-inducement.webp",
+            "combat_style_character": [
+                {
+                    "id": 35,
+                    "name": "Enmu",
+                    "description": "C'était un démon affilié aux Douze Lunes Démoniaques, occupant le rang inférieur 1. En tant que tel, Enmu était le plus puissant des rangs inférieurs et se rapprochait le plus de la puissance des Lunes Démoniaques des rangs supérieurs."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Manipulation des rêves",
+            "description": "La capacité secondaire de l'Art du Démon du Sang d'Enmu était son pouvoir d'entrer, de manipuler et de contrôler les rêves de quelqu'un lorsqu'il dormait.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 35,
+                    "name": "Enmu",
+                    "description": "C'était un démon affilié aux Douze Lunes Démoniaques, occupant le rang inférieur 1. En tant que tel, Enmu était le plus puissant des rangs inférieurs et se rapprochait le plus de la puissance des Lunes Démoniaques des rangs supérieurs."
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Mort destructrice",
+            "description": "L'art du démon du sang d'Akaza est centré sur les arts martiaux, combinant la manipulation d'ondes de choc destructrices et les arts martiaux de style Soryu qu'il maîtrisait lorsqu'il était humain.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/destructive-death.webp",
+            "combat_style_character": [
+                {
+                    "id": 36,
+                    "name": "Akaza",
+                    "description": "C'est un démon affilié aux Douze Lunes Démoniaques, occupant le rang supérieur trois. Troisième membre le plus haut gradé des Douze Lunes Démoniaques, Akaza est un démon exceptionnellement puissant et le quatrième plus puissant existant, après Doma, Kokushibo et Muzan."
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Manipulation de l'Obi Sash",
+            "description": "L'art du démon du sang de Daki lui permettait de créer des ceintures obi à motifs floraux à partir de sa chair, ainsi que de les manipuler librement à volonté.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/obi-manipulation.webp",
+            "combat_style_character": [
+                {
+                    "id": 37,
+                    "name": "Daki",
+                    "description": "C'est un démon affilié aux Douze Lunes Démoniaques, étant le titulaire secondaire du poste de Rang Supérieur Six, un poste qu'elle partage avec le titulaire principal, son frère aîné Gyutaro."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Manipulation du sang",
+            "description": "L'Art du Démon du Sang de Gyutaro lui permettait de manipuler le sang de son corps de diverses manières. Il était capable de le générer à partir de sa chair ou de blessures ouvertes, ou encore de libérer du sang à volonté de ses veines.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/blood-manipulation.webp",
+            "combat_style_character": [
+                {
+                    "id": 38,
+                    "name": "Gyutaro",
+                    "description": "En tant que véritable Upper Rank Six, Gyutaro était un démon extrêmement puissant avec plus d'un siècle d'expérience de combat à son actif, ayant tué et dévoré 15 Hashira dans le passé."
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Caryocinèse",
+            "description": "L'Art Démoniaque de Sang de Doma lui confère une cryokinésie extrêmement puissante. Il peut générer de la glace et du givre à partir de sa chair et de son sang, les faire apparaître n'importe où à proximité et les manipuler à volonté.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 39,
+                    "name": "Doma",
+                    "description": "C'est un démon affilié aux Douze Lunes Démoniaques, occupant le deuxième rang le plus élevé, le Rang Supérieur Deux. Doma est d'apparence amicale et joyeuse, et possède un air accessible et charismatique."
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Manifestation des émotions",
+            "description": "L'Art du Démon du Sang d'Hantengu lui permet de manifester ses émotions sous forme de clones plus jeunes. Chaque clone incarne une émotion fondamentale, identifiable par un kanji sur sa langue. Ces clones ont tous une apparence, des capacités et des armes différentes.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/emotion-manifestation.webp",
+            "combat_style_character": [
+                {
+                    "id": 40,
+                    "name": "Hantengu",
+                    "description": "C'est un démon affilié aux Douze Lunes Démoniaques, occupant le rang supérieur quatre. Hantengu semble croire à son innocence, malgré les preuves évidentes de ses nombreux crimes."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Sorts de Vases Magiques",
+            "description": "L'Art du Démon Sanglant de Gyokko lui permet d'engendrer des pots partout. Gyokko peut se téléporter dans différents pots pour éviter les attaques et invoquer des poissons grotesques, semblables à des Démons, depuis ses pots.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/porcelain-vase.webp",
+            "combat_style_character": [
+                {
+                    "id": 41,
+                    "name": "Gyokko",
+                    "description": "C'est un démon affilié aux Douze Lunes Démoniaques, occupant le rang de Cinq Supérieur. Gyokko est un démon facilement excitable, constamment en quête de nouvelles inspirations pour ce qu'il considère comme son « art » ou ce qu'il trouve sublime, allant parfois jusqu'à contredire ses premières impressions."
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Manipulation du château de l'infini",
+            "description": "L'Art du Démon Sanglant de Nakime prend la forme d'un espace extradimensionnel abritant une forteresse immense. En tant que propriétaire, Nakime possède un pouvoir absolu sur cet espace, qu'elle peut manipuler et modifier à volonté d'un simple coup de biwa.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/infinite-castle.webp",
+            "combat_style_character": [
+                {
+                    "id": 43,
+                    "name": "Nakime",
+                    "description": "C'est un démon qui possède et contrôle le Château de l'Infini et qui est au service direct de Muzan Kibutsuji. Nakime est distante et taciturne, ne parlant presque jamais et ne manifestant que peu d'émotions et de volonté, si ce n'est pour obéir aux ordres. Elle était extrêmement loyale envers Muzan, l'écoutant et exécutant ses moindres ordres sans faille."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Souffle De La Lune",
+            "description": "Kokushibo est le premier démon à utiliser les styles de souffle. Son souffle lunaire est l'un des plus dangereux et des plus puissants. Il peut créer de nombreuses lames chaotiques en forme de croissant de lune, de longueur et de taille variables, lors de ses attaques d'épée en forme de croissant.",
+            "img": "https://www.demonslayer-api.com/api/v1/combat-styles/images/moon-breathing.webp",
+            "combat_style_character": [
+                {
+                    "id": 44,
+                    "name": "Kokushibo",
+                    "description": "C'est un démon affilié aux Douze Lunes de Denon, occupant le rang le plus élevé, le Rang Supérieur Un. Il a combattu d'innombrables Tueurs de Démons et a accumulé une vaste expérience et un savoir considérable au cours de ses près de 500 ans de vie."
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Lames du Croissant de Lune",
+            "description": "En complément de son souffle lunaire, l'art du démon du sang de Kokushibo lui permet de créer et de manipuler des dizaines de lames tranchantes en forme de croissants de lune traditionnels à partir de son katana de chair.",
+            "img": "",
+            "combat_style_character": [
+                {
+                    "id": 44,
+                    "name": "Kokushibo",
+                    "description": "C'est un démon affilié aux Douze Lunes de Denon, occupant le rang le plus élevé, le Rang Supérieur Un. Il a combattu d'innombrables Tueurs de Démons et a accumulé une vaste expérience et un savoir considérable au cours de ses près de 500 ans de vie."
+                }
+            ]
+        }
+    ]
+}

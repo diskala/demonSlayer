@@ -1,40 +1,39 @@
-
-    [
-        {
-            "id": 1,
-            "difficulty": "facile",
-            "question": "Qui est la sœur de Tanjiro ?",
-            "options": [
-                "Nezuko",
-                "Shinobu",
-                "Mitsuri",
-                "Kanao"
-            ],
-            "answer": "Nezuko"
-        },
-        {
-            "id": 2,
-        "difficulty": "facile",
-        "question": "Quelle arme utilisent les pourfendeurs de démons ?",
+[
+    {
+        "id": 1,
+        "difficulty": "difficile",
+        "question": "Quel est le nom complet de la technique finale du Souffle du Soleil utilisée par Tanjiro contre Muzan ?",
         "options": [
-            "Arc",
-            "Katana",
-            "Hache",
-            "Lance"
+            "Hinokami Kagura: Enbu",
+            "Hinokami Kagura: Jū no kata, Kagura",
+            "Hinokami Kagura: Jū no kata, Rinka Enbu",
+            "Hinokami Kagura: Jū no kata, Kagerō"
         ],
-        "answer": "Katana"
+        "answer": "Hinokami Kagura: Jū no kata, Rinka Enbu"
+    },
+    {
+        "id": 2,
+        "difficulty": "difficile",
+        "question": "Quelle fleur rare est utilisée pour créer la drogue qui affaiblit Muzan Kibutsuji ?",
+        "options": [
+            "Fleur de glycine",
+            "Fleur du mont Natagumo",
+            "Lys bleu",
+            "Fleur de lune éternelle (Blue Spider Lily)"
+        ],
+        "answer": "Fleur de lune éternelle (Blue Spider Lily)"
     },
     {
         "id": 3,
-        "difficulty": "facile",
-        "question": "Comment s’appelle le garçon qui a un sanglier sur la tête ?",
+        "difficulty": "difficile",
+        "question": "Quelle était la position de rang lunaire inférieure de Rui avant sa mort ?",
         "options": [
-            "Zenitsu",
-            "Inosuke",
-            "Rengoku",
-            "Giyu"
+            "Inférieure Trois",
+            "Inférieure Cinq",
+            "Inférieure Quatre",
+            "Inférieure Un"
         ],
-        "answer": "Inosuke"
+        "answer": "Inférieure Cinq"
     },
     {
         "id": 4,
@@ -42,27 +41,27 @@
         "question": "Qui est le meilleur ami de Tanjiro ?",
         "options": [
             "Inosuke",
-            "Zenitsu",
             "Nezuko",
+            "Zenitsu",
             "Rengoku"
         ],
         "answer": "Zenitsu"
     },
     {
         "id": 5,
-        "difficulty": "facile",
-        "question": "Quel est le motif du kimono de Tanjiro ?",
+        "difficulty": "difficile",
+        "question": "Quel est le nom de naissance du démon Akaza avant sa transformation ?",
         "options": [
-            "Rayures rouges",
-            "Carreaux verts et noirs",
-            "Fleurs roses",
-            "Cercles bleus"
+            "Hakuji",
+            "Kaigaku",
+            "Sabito",
+            "Yorichii"
         ],
-        "answer": "Carreaux verts et noirs"
+        "answer": "Hakuji"
     },
     {
         "id": 6,
-        "difficulty": "moyen",
+        "difficulty": "facile",
         "question": "Qui est le Pilier de l’Eau ?",
         "options": [
             "Giyu Tomioka",
@@ -77,9 +76,9 @@
         "difficulty": "moyen",
         "question": "Quel démon a tué la famille de Tanjiro ?",
         "options": [
-            "Muzan Kibutsuji",
             "Rui",
             "Akaza",
+            "Muzan Kibutsuji",
             "Douma"
         ],
         "answer": "Muzan Kibutsuji"
@@ -98,7 +97,7 @@
     },
     {
         "id": 9,
-        "difficulty": "moyen",
+        "difficulty": "facile",
         "question": "Qui est le maître des pourfendeurs de démons ?",
         "options": [
             "Kagaya Ubuyashiki",
@@ -114,8 +113,8 @@
         "question": "Quel est le rôle de Kanao Tsuyuri ?",
         "options": [
             "Pilier",
-            "Apprentie Slayer",
             "Démon",
+            "Apprentie Slayer",
             "Médecin"
         ],
         "answer": "Apprentie Slayer"
@@ -134,7 +133,7 @@
     },
     {
         "id": 12,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quelle est la respiration utilisée par Shinobu Kocho ?",
         "options": [
             "Insecte",
@@ -150,15 +149,15 @@
         "question": "Quel démon fait partie des Douze Lunes Supérieures et utilise la glace ?",
         "options": [
             "Akaza",
-            "Douma",
             "Gyutaro",
-            "Kokushibo"
+            "Kokushibo",
+            "Douma"
         ],
         "answer": "Douma"
     },
     {
         "id": 14,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Qui est le frère de Nezuko ?",
         "options": [
             "Zenitsu",
@@ -173,8 +172,8 @@
         "difficulty": "avance",
         "question": "Quelle est la particularité de la lame de Mitsuri Kanroji ?",
         "options": [
-            "Elle est flexible",
             "Elle est enflammée",
+            "Elle est flexible",
             "Elle est noire",
             "Elle est brisée"
         ],
@@ -194,19 +193,19 @@
     },
     {
         "id": 17,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Qui est le Pilier du Son ?",
         "options": [
-            "Uzui Tengen",
             "Kyojuro Rengoku",
             "Obanai Iguro",
-            "Giyu Tomioka"
+            "Giyu Tomioka",
+            "Uzui Tengen"
         ],
         "answer": "Uzui Tengen"
     },
     {
         "id": 18,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quelle relation existe entre Kokushibo et Yoriichi ?",
         "options": [
             "Frères jumeaux",
@@ -218,19 +217,19 @@
     },
     {
         "id": 19,
-        "difficulty": "avance",
+        "difficulty": "moyen",
         "question": "Qui est Gyutaro ?",
         "options": [
-            "Un démon de la Lune Supérieure",
             "Un Pilier",
             "Un ami de Zenitsu",
-            "Un forgeron"
+            "Un forgeron",
+            "Un démon de la Lune Supérieure"
         ],
         "answer": "Un démon de la Lune Supérieure"
     },
     {
         "id": 20,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quel est le nom complet de Rengoku ?",
         "options": [
             "Kyojuro Rengoku",
@@ -242,12 +241,12 @@
     },
     {
         "id": 21,
-        "difficulty": "avance",
+        "difficulty": "moyen",
         "question": "Quelle est la respiration utilisée par Tanjiro après l’Eau ?",
         "options": [
-            "Soleil",
             "Vent",
             "Insecte",
+            "Soleil",
             "Son"
         ],
         "answer": "Soleil"
@@ -266,11 +265,11 @@
     },
     {
         "id": 23,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quel démon utilise la soie d’araignée ?",
         "options": [
-            "Rui",
             "Akaza",
+            "Rui",
             "Gyutaro",
             "Enmu"
         ],
@@ -278,7 +277,7 @@
     },
     {
         "id": 24,
-        "difficulty": "avance",
+        "difficulty": "moyen",
         "question": "Quelle est la couleur de la lame de Giyu ?",
         "options": [
             "Bleue",
@@ -293,10 +292,10 @@
         "difficulty": "avance",
         "question": "Qui a affronté Gyutaro et Daki ?",
         "options": [
-            "Tanjiro, Nezuko, Uzui, Inosuke et Zenitsu",
             "Rengoku seul",
             "Shinobu et Mitsuri",
-            "Sanemi et Obanai"
+            "Sanemi et Obanai",
+            "Tanjiro, Nezuko, Uzui, Inosuke et Zenitsu"
         ],
         "answer": "Tanjiro, Nezuko, Uzui, Inosuke et Zenitsu"
     },
@@ -313,7 +312,7 @@
     {
         "id": 27,
         "difficulty": "ludique",
-        "question": "Tanjiro porte un kimono à carreaux verts et noirs.",
+        "question": "Tanjiro porte un kimono à carreaux verts et marron.",
         "options": [
             "Vrai",
             "Faux"
@@ -322,7 +321,7 @@
     },
     {
         "id": 28,
-        "difficulty": "ludique",
+        "difficulty": "moyen",
         "question": "Zenitsu s’endort quand il a peur.",
         "options": [
             "Vrai",
@@ -332,7 +331,7 @@
     },
     {
         "id": 29,
-        "difficulty": "ludique",
+        "difficulty": "facile",
         "question": "Inosuke utilise deux katanas cassés.",
         "options": [
             "Vrai",
@@ -362,7 +361,7 @@
     },
     {
         "id": 32,
-        "difficulty": "ludique",
+        "difficulty": "moyen",
         "question": "Kanao utilise une pièce pour prendre des décisions.",
         "options": [
             "Vrai",
@@ -372,7 +371,7 @@
     },
     {
         "id": 33,
-        "difficulty": "ludique",
+        "difficulty": "facile",
         "question": "Rengoku a survécu au combat contre Akaza.",
         "options": [
             "Vrai",
@@ -382,7 +381,7 @@
     },
     {
         "id": 34,
-        "difficulty": "ludique",
+        "difficulty": "facile",
         "question": "Douma est le Pilier de la Flamme.",
         "options": [
             "Vrai",
@@ -392,7 +391,7 @@
     },
     {
         "id": 35,
-        "difficulty": "ludique",
+        "difficulty": "moyen",
         "question": "Uzui Tengen se bat avec trois épées.",
         "options": [
             "Vrai",
@@ -402,7 +401,7 @@
     },
     {
         "id": 36,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quel est le nom du démon qui contrôle les tambours ?",
         "options": [
             "Kyogai",
@@ -414,12 +413,12 @@
     },
     {
         "id": 37,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Qui est le Pilier du Serpent ?",
         "options": [
-            "Obanai Iguro",
             "Sanemi",
             "Douma",
+            "Obanai Iguro",
             "Gyomei"
         ],
         "answer": "Obanai Iguro"
@@ -441,16 +440,16 @@
         "difficulty": "avance",
         "question": "Quel est le rêve d’Enmu dans le Train de l’Infini ?",
         "options": [
-            "Plonger les passagers dans des rêves",
             "Devenir un Pilier",
             "Se lier avec Muzan",
-            "Tuer Rengoku"
+            "Tuer Rengoku",
+            "Plonger les passagers dans des rêves"
         ],
         "answer": "Plonger les passagers dans des rêves"
     },
     {
         "id": 40,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Qui est le démon de la Lune Supérieure Un ?",
         "options": [
             "Kokushibo",
@@ -462,7 +461,7 @@
     },
     {
         "id": 41,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quel est le nom complet de Shinobu ?",
         "options": [
             "Shinobu Kocho",
@@ -474,12 +473,12 @@
     },
     {
         "id": 42,
-        "difficulty": "avance",
+        "difficulty": "facile",
         "question": "Quelle est la respiration de Rengoku ?",
         "options": [
-            "Flamme",
             "Soleil",
             "Vent",
+            "Flamme",
             "Eau"
         ],
         "answer": "Flamme"
@@ -489,8 +488,8 @@
         "difficulty": "avance",
         "question": "Quel démon utilise des tambours pour manipuler l’espace ?",
         "options": [
-            "Kyogai",
             "Rui",
+            "Kyogai",
             "Gyutaro",
             "Douma"
         ],
@@ -501,9 +500,9 @@
         "difficulty": "avance",
         "question": "Quel est le rôle de Kagaya Ubuyashiki ?",
         "options": [
-            "Chef des pourfendeurs",
             "Pilier",
             "Ancien Slayer",
+            "Chef des pourfendeurs",
             "Forgeron"
         ],
         "answer": "Chef des pourfendeurs"
@@ -513,10 +512,10 @@
         "difficulty": "avance",
         "question": "Quelle est la couleur de la lame de Zenitsu ?",
         "options": [
-            "Jaune",
             "Bleue",
             "Rouge",
-            "Noire"
+            "Noire",
+            "Jaune"
         ],
         "answer": "Jaune"
     },
@@ -532,7 +531,7 @@
     },
     {
         "id": 47,
-        "difficulty": "ludique",
+        "difficulty": "facile",
         "question": "Muzan est le premier démon de l’histoire.",
         "options": [
             "Vrai",
@@ -552,7 +551,7 @@
     },
     {
         "id": 49,
-        "difficulty": "ludique",
+        "difficulty": "facile",
         "question": "Nezuko peut rétrécir et grandir sa taille.",
         "options": [
             "Vrai",
@@ -562,12 +561,1244 @@
     },
     {
         "id": 50,
-        "difficulty": "ludique",
-            "question": "Zenitsu peut utiliser plus d’une forme de sa respiration.",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        }
-    ]
+        "difficulty": "facile",
+        "question": "Zenitsu peut utiliser plus d’une forme de sa respiration.",
+        "options": [
+            "Vrai",
+            "Faux"
+        ],
+        "answer": "Faux"
+    },
+    {
+        "id": 51,
+        "difficulty": "facile",
+        "question": "Quelle arme utilisent les pourfendeurs de démons ?",
+        "options": [
+            "Arc",
+            "Katana",
+            "Hache",
+            "Lance"
+        ],
+        "answer": "Katana"
+    },
+    {
+        "id": 52,
+        "difficulty": "facile",
+        "question": "Comment s'appelle le garçon qui a un sanglier sur la tête ?",
+        "options": [
+            "Zenitsu",
+            "Rengoku",
+            "Inosuke",
+            "Giyu"
+        ],
+        "answer": "Inosuke"
+    },
+    {
+        "id": 53,
+        "difficulty": "facile",
+        "question": "Qui est le meilleur ami de Tanjiro ?",
+        "options": [
+            "Inosuke",
+            "Zenitsu",
+            "Nezuko",
+            "Rengoku"
+        ],
+        "answer": "Zenitsu"
+    },
+    {
+        "id": 54,
+        "difficulty": "facile",
+        "question": "Quel est le motif du kimono de Tanjiro ?",
+        "options": [
+            "Rayures rouges",
+            "Fleurs roses",
+            "Carreaux verts et noirs",
+            "Cercles bleus"
+        ],
+        "answer": "Carreaux verts et noirs"
+    },
+    {
+        "id": 55,
+        "difficulty": "facile",
+        "question": "Quel sens Tanjiro possède-t-il particulièrement développé ?",
+        "options": [
+            "L'ouïe",
+            "L'odorat",
+            "La vue",
+            "Le goût"
+        ],
+        "answer": "L'odorat"
+    },
+    {
+        "id": 56,
+        "difficulty": "facile",
+        "question": "Que transporte Tanjiro dans sa boîte en bois ?",
+        "options": [
+            "Ses armes",
+            "De la nourriture",
+            "Sa sœur Nezuko",
+            "Des médicaments"
+        ],
+        "answer": "Sa sœur Nezuko"
+    },
+    {
+        "id": 57,
+        "difficulty": "facile",
+        "question": "Quelle est la particularité de Nezuko ?",
+        "options": [
+            "Elle est un démon",
+            "Elle a des pouvoirs de glace",
+            "Elle peut voler",
+            "Elle utilise un katana"
+        ],
+        "answer": "Elle est un démon"
+    },
+    {
+        "id": 58,
+        "difficulty": "facile",
+        "question": "Qui est le premier pilier que Tanjiro rencontre ?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Shinobu Kocho",
+            "Tengen Uzui",
+            "Giyu Tomioka"
+        ],
+        "answer": "Giyu Tomioka"
+    },
+    {
+        "id": 59,
+        "difficulty": "difficile",
+        "question": "Combien de formes comporte la Danse du Dieu du Feu originelle ?",
+        "options": [
+            "10",
+            "12",
+            "13",
+            "15"
+        ],
+        "answer": "13"
+    },
+    {
+        "id": 60,
+        "difficulty": "difficile",
+        "question": "Quel est le vrai nom de Kokushibo ?",
+        "options": [
+            "Michikatsu Tsugikuni",
+            "Yoriichi Tsugikuni",
+            "Kiriya Ubuyashiki",
+            "Kagaya Ubuyashiki"
+        ],
+        "answer": "Michikatsu Tsugikuni"
+    },
+    {
+        "id": 61,
+        "difficulty": "facile",
+        "question": "Quelle est la particularité unique du katana de Gyomei Himejima ?",
+        "options": [
+            "Il est en pierre",
+            "Il est double-lame",
+            "Il peut changer de forme",
+            "C'est une masse avec une chaîne"
+        ],
+        "answer": "C'est une masse avec une chaîne"
+    },
+    {
+        "id": 62,
+        "difficulty": "difficile",
+        "question": "Quel pourfendeur utilise la Respiration de l'Amour ?",
+        "options": [
+            "Shinobu Kocho",
+            "Kanae Kocho",
+            "Mitsuri Kanroji",
+            "Obanai Iguro"
+        ],
+        "answer": "Mitsuri Kanroji"
+    },
+    {
+        "id": 63,
+        "difficulty": "difficile",
+        "question": "Combien de frères et sœurs avait Sanemi Shinazugawa ?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 64,
+        "difficulty": "difficile",
+        "question": "Quelle est la maladie dont souffre Kagaya Ubuyashiki ?",
+        "options": [
+            "Cancer",
+            "Malédiction familiale",
+            "Tuberculose",
+            "Maladie dégénérative"
+        ],
+        "answer": "Malédiction familiale"
+    },
+    {
+        "id": 65,
+        "difficulty": "difficile",
+        "question": "Quel est le pourcentage de puissance que Muzan a donné à chaque Lune Supérieure ?",
+        "options": [
+            "Plus de 100%",
+            "Exactement 100%",
+            "Variable selon la Lune",
+            "Moins de 100%"
+        ],
+        "answer": "Moins de 100%"
+    },
+    {
+        "id": 66,
+        "difficulty": "difficile",
+        "question": "Quelle Respiration est dérivée directement de la Respiration du Soleil ?",
+        "options": [
+            "Toutes les Respirations",
+            "Seulement la Respiration de l'Eau",
+            "Seulement la Respiration du Feu",
+            "Les 5 Respirations principales"
+        ],
+        "answer": "Toutes les Respirations"
+    },
+    {
+        "id": 67,
+        "difficulty": "difficile",
+        "question": "Quel pilier était présent lors de la sélection finale de Tanjiro ?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Giyu Tomioka",
+            "Shinobu Kocho",
+            "Aucun"
+        ],
+        "answer": "Aucun"
+    },
+    {
+        "id": 68,
+        "difficulty": "difficile",
+        "question": "Combien de temps Nezuko a-t-elle dormi sans se réveiller après son combat avec Daki ?",
+        "options": [
+            "2 semaines",
+            "1 mois",
+            "2 mois",
+            "3 mois"
+        ],
+        "answer": "2 mois"
+    },
+    {
+        "id": 69,
+        "difficulty": "moyen",
+        "question": "Quel est le nom du frère aîné de la famille Kamado ?",
+        "options": [
+            "Takeo",
+            "Tanjiro",
+            "Rokuta",
+            "Shigeru"
+        ],
+        "answer": "Tanjiro"
+    },
+    {
+        "id": 70,
+        "difficulty": "facile",
+        "question": "Quelle technique de respiration utilise Giyu Tomioka ?",
+        "options": [
+            "Respiration de l'Eau",
+            "Respiration de la Foudre",
+            "Respiration de la Pierre",
+            "Respiration du Serpent"
+        ],
+        "answer": "Respiration de l'Eau"
+    },
+    {
+        "id": 71,
+        "difficulty": "moyen",
+        "question": "Quel est le rang de Tanjiro après l'examen final ?",
+        "options": [
+            "Mizunoto",
+            "Kinoe",
+            "Hinoe",
+            "Tsuchinoto"
+        ],
+        "answer": "Mizunoto"
+    },
+    {
+        "id": 72,
+        "difficulty": "moyen",
+        "question": "Combien de Lunes Supérieures existe-t-il ?",
+        "options": [
+            "12",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 73,
+        "difficulty": "facile",
+        "question": "Quel est le nom du train où se déroule l'arc du Train de l'Infini ?",
+        "options": [
+            "Train du Cauchemar",
+            "Train de l'Infini",
+            "Train Démoniaque",
+            "Train de l'Éternité"
+        ],
+        "answer": "Train de l'Infini"
+    },
+    {
+        "id": 74,
+        "difficulty": "facile",
+        "question": "Qui est le pilier de la Flamme ?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Mitsuri Kanroji",
+            "Sanemi Shinazugawa",
+            "Obanai Iguro"
+        ],
+        "answer": "Kyojuro Rengoku"
+    },
+    {
+        "id": 75,
+        "difficulty": "moyen",
+        "question": "Quelle est la particularité du sabre de Zenitsu ?",
+        "options": [
+            "Il est toujours fendu",
+            "Il est plus court que la normale",
+            "Il change de couleur",
+            "Il a un pommeau spécial"
+        ],
+        "answer": "Il change de couleur"
+    },
+    {
+        "id": 76,
+        "difficulty": "moyen",
+        "question": "Dans quel district Tanjiro rencontre-t-il Tengen Uzui pour la première fois ?",
+        "options": [
+            "District de l'Entertainment",
+            "District des Plaisirs",
+            "District des Fleurs",
+            "District des Jeux"
+        ],
+        "answer": "District des Plaisirs"
+    },
+    {
+        "id": 77,
+        "difficulty": "moyen",
+        "question": "Quel est le nom du renard masqué qui supervise la sélection finale ?",
+        "options": [
+            "Hand Demon",
+            "Father",
+            "Urokodaki",
+            "Sabito"
+        ],
+        "answer": "Father"
+    },
+    {
+        "id": 78,
+        "difficulty": "moyen",
+        "question": "Combien de formes comprend la Respiration du Tonnerre ?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 79,
+        "difficulty": "moyen",
+        "question": "Qui est le créateur de la Danse du Dieu du Feu ?",
+        "options": [
+            "Yoriichi Tsugikuni",
+            "Sumiyoshi",
+            "Tanjiro Kamado",
+            "Sumire Kamado"
+        ],
+        "answer": "Sumiyoshi"
+    },
+    {
+        "id": 80,
+        "difficulty": "moyen",
+        "question": "Quelle Lune Supérieure est rencontrée dans l'arc du Village des Forgerons ?",
+        "options": [
+            "Hantengu",
+            "Gyokko",
+            "Akaza",
+            "Doma"
+        ],
+        "answer": "Gyokko"
+    },
+    {
+        "id": 81,
+        "difficulty": "facile",
+        "question": "Quel est le nom du frère de Nezuko ?",
+        "options": [
+            "Tanjiro",
+            "Takeo",
+            "Rokuta",
+            "Shigeru"
+        ],
+        "answer": "Tanjiro"
+    },
+    {
+        "id": 82,
+        "difficulty": "moyen",
+        "question": "Qui entraîne Tanjiro après sa guérison ?",
+        "options": [
+            "Kotetsu",
+            "Kozo Kanamori",
+            "Hotaru Haganezuka",
+            "Tecchin Tecchikawahara"
+        ],
+        "answer": "Kotetsu"
+    },
+    {
+        "id": 83,
+        "difficulty": "moyen",
+        "question": "Quelle est la couleur des cheveux de Mitsuri Kanroji ?",
+        "options": [
+            "Noir et bleu",
+            "Blanc et rouge",
+            "Blond et orange",
+            "Rose et vert"
+        ],
+        "answer": "Rose et vert"
+    },
+    {
+        "id": 84,
+        "difficulty": "moyen",
+        "question": "Quel animal accompagne Inosuke ?",
+        "options": [
+            "Un sanglier",
+            "Un ours",
+            "Un loup",
+            "Un tigre"
+        ],
+        "answer": "Un sanglier"
+    },
+    {
+        "id": 85,
+        "difficulty": "facile",
+        "question": "Qui est le pilier du Son ?",
+        "options": [
+            "Gyomei Himejima",
+            "Tengen Uzui",
+            "Sanemi Shinazugawa",
+            "Muichiro Tokito"
+        ],
+        "answer": "Tengen Uzui"
+    },
+    {
+        "id": 86,
+        "difficulty": "moyen",
+        "question": "Combien d'épouses Tengen Uzui a-t-il ?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "id": 87,
+        "difficulty": "moyen",
+        "question": "Quelle est la particularité des yeux de Muichiro Tokito ?",
+        "options": [
+            "Ils sont bleu nuage",
+            "Ils sont rouges",
+            "Ils sont vides",
+            "Ils changent de couleur"
+        ],
+        "answer": "Ils sont bleu nuage"
+    },
+    {
+        "id": 88,
+        "difficulty": "moyen",
+        "question": "Qui est le premier démon que Tanjiro affronte seul ?",
+        "options": [
+            "Démon de la Flèche",
+            "Démon du Temple",
+            "Démon de la Boule",
+            "Démon du Tambour"
+        ],
+        "answer": "Démon du Tambour"
+    },
+    {
+        "id": 89,
+        "difficulty": "facile",
+        "question": "Quelle est la faiblesse principale des démons ?",
+        "options": [
+            "L'argent",
+            "L'eau bénite",
+            "Les crucifix",
+            "La lumière du soleil"
+        ],
+        "answer": "La lumière du soleil"
+    },
+    {
+        "id": 90,
+        "difficulty": "moyen",
+        "question": "Qui soigne Tanjiro après son combat avec Rui ?",
+        "options": [
+            "Shinobu Kocho",
+            "Tamayo",
+            "Lady Tamayo",
+            "Kanae Kocho"
+        ],
+        "answer": "Shinobu Kocho"
+    },
+    {
+        "id": 91,
+        "difficulty": "moyen",
+        "question": "Quel est le nom du fils d'Ubuyashiki ?",
+        "options": [
+            "Kanata",
+            "Kiriya",
+            "Kuina",
+            "Kagen"
+        ],
+        "answer": "Kiriya"
+    },
+    {
+        "id": 92,
+        "difficulty": "moyen",
+        "question": "Quelle Lune Inférieure est vaincue par Kyojuro Rengoku ?",
+        "options": [
+            "Enmu",
+            "Rui",
+            "Wakuraba",
+            "Mukago"
+        ],
+        "answer": "Enmu"
+    },
+    {
+        "id": 93,
+        "difficulty": "facile",
+        "question": "Quelle technique Zenitsu maîtrise-t-il parfaitement ?",
+        "options": [
+            "Première forme : Éclair fendant",
+            "Sixième forme : Tonnerre grondant",
+            "Cinquième forme : Chaleur du tonnerre",
+            "Deuxième forme : Riposte éclair"
+        ],
+        "answer": "Première forme : Éclair fendant"
+    },
+    {
+        "id": 94,
+        "difficulty": "moyen",
+        "question": "Quel est le matériau des lames des pourfendeurs ?",
+        "options": [
+            "Acier solaire",
+            "Métal écarlate",
+            "Acier de Nichirin",
+            "Métal lunaire"
+        ],
+        "answer": "Acier de Nichirin"
+    },
+    {
+        "id": 95,
+        "difficulty": "facile",
+        "question": "Qui est le pilier de l'Amour ?",
+        "options": [
+            "Mitsuri Kanroji",
+            "Shinobu Kocho",
+            "Kanae Kocho",
+            "Makomo"
+        ],
+        "answer": "Mitsuri Kanroji"
+    },
+    {
+        "id": 96,
+        "difficulty": "moyen",
+        "question": "Combien de temps dure la sélection finale ?",
+        "options": [
+            "3 jours",
+            "5 jours",
+            "7 jours",
+            "10 jours"
+        ],
+        "answer": "7 jours"
+    },
+    {
+        "id": 97,
+        "difficulty": "facile",
+        "question": "Quelle est la particularité du masque de Inosuke ?",
+        "options": [
+            "C'est une tête de sanglier",
+            "C'est un masque de démon",
+            "C'est un masque de loup",
+            "C'est un masque de renard"
+        ],
+        "answer": "C'est une tête de sanglier"
+    },
+    {
+        "id": 98,
+        "difficulty": "facile",
+        "question": "Qui est le pilier de la Brume ?",
+        "options": [
+            "Giyu Tomioka",
+            "Sanemi Shinazugawa",
+            "Muichiro Tokito",
+            "Obanai Iguro"
+        ],
+        "answer": "Muichiro Tokito"
+    },
+    {
+        "id": 99,
+        "difficulty": "moyen",
+        "question": "Quelle est la position de Rui parmi les Douze Lunes Démoniaques ?",
+        "options": [
+            "Lune Inférieure 3",
+            "Lune Inférieure 1",
+            "Lune Supérieure 6",
+            "Lune Inférieure 5"
+        ],
+        "answer": "Lune Inférieure 5"
+    },
+    {
+        "id": 100,
+        "difficulty": "moyen",
+        "question": "Quel sens Inosuke possède-t-il particulièrement développé ?",
+        "options": [
+            "Le toucher",
+            "L'odorat",
+            "L'ouïe",
+            "L'intuition"
+        ],
+        "answer": "Le toucher"
+    },
+    {
+        "id": 101,
+        "difficulty": "moyen",
+        "question": "Qui est le forgeron personnel de Tanjiro ?",
+        "options": [
+            "Hotaru Haganezuka",
+            "Kozo Kanamori",
+            "Tecchin Tecchikawahara",
+            "Kotetsu"
+        ],
+        "answer": "Hotaru Haganezuka"
+    },
+    {
+        "id": 102,
+        "difficulty": "facile",
+        "question": "Quelle est la Respiration utilisée par Shinobu Kocho ?",
+        "options": [
+            "Respiration de la Fleur",
+            "Respiration de l'Insecte",
+            "Respiration du Serpent",
+            "Respiration de l'Amour"
+        ],
+        "answer": "Respiration de l'Insecte"
+    },
+    {
+        "id": 103,
+        "difficulty": "moyen",
+        "question": "Combien de formes comprend la Respiration de l'Eau ?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "10"
+    },
+    {
+        "id": 104,
+        "difficulty": "facile",
+        "question": "Qui est le pilier du Serpent ?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Gyomei Himejima",
+            "Obanai Iguro",
+            "Tengen Uzui"
+        ],
+        "answer": "Obanai Iguro"
+    },
+    {
+        "id": 105,
+        "difficulty": "facile",
+        "question": "Quelle est la particularité du sabre de Shinobu Kocho ?",
+        "options": [
+            "Il est empoisonné",
+            "Il est plus fin et pointu",
+            "Il change de couleur",
+            "Il est double-lame"
+        ],
+        "answer": "Il est plus fin et pointu"
+    },
+    {
+        "id": 106,
+        "difficulty": "facile",
+        "question": "Qui est le chef des pourfendeurs de démons ?",
+        "options": [
+            "Kagaya Ubuyashiki",
+            "Kiriya Ubuyashiki",
+            "Giyu Tomioka",
+            "Gyomei Himejima"
+        ],
+        "answer": "Kagaya Ubuyashiki"
+    },
+    {
+        "id": 107,
+        "difficulty": "moyen",
+        "question": "Quelle est la couleur des cheveux de Giyu Tomioka ?",
+        "options": [
+            "Noir",
+            "Brun",
+            "Roux",
+            "Blond"
+        ],
+        "answer": "Noir"
+    },
+    {
+        "id": 108,
+        "difficulty": "facile",
+        "question": "Qui est la sœur de Shinobu Kocho ?",
+        "options": [
+            "Kanae Kocho",
+            "Mitsuri Kanroji",
+            "Makomo",
+            "Nezuko Kamado"
+        ],
+        "answer": "Kanae Kocho"
+    },
+    {
+        "id": 109,
+        "difficulty": "moyen",
+        "question": "Quel est le nom du chat qui aide les pourfendeurs ?",
+        "options": [
+            "Chachamaru",
+            "Nekomaru",
+            "Tama",
+            "Kuro"
+        ],
+        "answer": "Chachamaru"
+    },
+    {
+        "id": 110,
+        "difficulty": "moyen",
+        "question": "Quelle est la particularité des attaques de Inosuke ?",
+        "options": [
+            "Il utilise deux sabres",
+            "Il combat à mains nues",
+            "Il utilise une lance",
+            "Il utilise des shurikens"
+        ],
+        "answer": "Il utilise deux sabres"
+    },
+    {
+        "id": 111,
+        "difficulty": "facile",
+        "question": "Qui est le pilier du Vent ?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka",
+            "Kyojuro Rengoku",
+            "Muichiro Tokito"
+        ],
+        "answer": "Sanemi Shinazugawa"
+    },
+    {
+        "id": 112,
+        "difficulty": "facile",
+        "question": "Quelle est la Respiration utilisée par Obanai Iguro ?",
+        "options": [
+            "Respiration du Serpent",
+            "Respiration de l'Insecte",
+            "Respiration de la Pierre",
+            "Respiration du Vent"
+        ],
+        "answer": "Respiration du Serpent"
+    },
+    {
+        "id": 113,
+        "difficulty": "moyen",
+        "question": "Combien de Lunes Inférieures existe-t-il ?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 114,
+        "difficulty": "moyen",
+        "question": "Qui est le premier pilier que Tanjiro affronte en entraînement ?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka",
+            "Muichiro Tokito",
+            "Obanai Iguro"
+        ],
+        "answer": "Sanemi Shinazugawa"
+    },
+    {
+        "id": 115,
+        "difficulty": "moyen",
+        "question": "Quelle est la couleur des yeux de Nezuko sous forme démoniaque ?",
+        "options": [
+            "Rouge et rose",
+            "Vert et jaune",
+            "Bleu et blanc",
+            "Rose et bleu"
+        ],
+        "answer": "Rose et bleu"
+    },
+    {
+        "id": 116,
+        "difficulty": "moyen",
+        "question": "Qui est le créateur de la Respiration du Tonnerre ?",
+        "options": [
+            "Sakonji Urokodaki",
+            "Jigoro Kuwajima",
+            "Kyojuro Rengoku",
+            "Kagaya Ubuyashiki"
+        ],
+        "answer": "Jigoro Kuwajima"
+    },
+    {
+        "id": 117,
+        "difficulty": "moyen",
+        "question": "Quelle est la particularité du sabre de Muichiro Tokito ?",
+        "options": [
+            "Il devient bleu nuage",
+            "Il devient rouge écarlate",
+            "Il devient vert forêt",
+            "Il devient jaune or"
+        ],
+        "answer": "Il devient bleu nuage"
+    },
+    {
+        "id": 118,
+        "difficulty": "facile",
+        "question": "Qui est le pilier de la Pierre ?",
+        "options": [
+            "Gyomei Himejima",
+            "Sanemi Shinazugawa",
+            "Tengen Uzui",
+            "Giyu Tomioka"
+        ],
+        "answer": "Gyomei Himejima"
+    },
+    {
+        "id": 119,
+        "difficulty": "difficile",
+        "question": "Combien de formes comporte le Souffle du Soleil original créé par Yoriichi Tsugikuni ?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": "13"
+    },
+    {
+        "id": 120,
+        "difficulty": "difficile",
+        "question": "Quel Hashira est capable d’utiliser simultanément deux souffles différents en combat ?",
+        "options": [
+            "Tengen Uzui",
+            "Muichiro Tokito",
+            "Kaigaku",
+            "Mitsuri Kanroji"
+        ],
+        "answer": "Tengen Uzui"
+    },
+    {
+        "id": 121,
+        "difficulty": "difficile",
+        "question": "Quelle est la particularité du sabre de Muichiro Tokito, le Pilier de la Brume ?",
+        "options": [
+            "Il est noir comme celui de Tanjiro",
+            "Il change de couleur selon la brume",
+            "Il est plus fin et plus léger que les autres Nichirin",
+            "Il a un tranchant courbé spécial"
+        ],
+        "answer": "Il est plus fin et plus léger que les autres Nichirin"
+    },
+    {
+        "id": 122,
+        "difficulty": "difficile",
+        "question": "Quel Hashira a été blessé par Kokushibo avant de mourir, et quelle blessure a-t-il subie ?",
+        "options": [
+            "Sanemi – un bras coupé",
+            "Gyomei – jambe sectionnée",
+            "Muichiro – transpercé au torse",
+            "Obanai – aveuglé"
+        ],
+        "answer": "Muichiro – transpercé au torse"
+    },
+    {
+        "id": 123,
+        "difficulty": "difficile",
+        "question": "Quel symbole exact porte la marque de Tanjiro lorsqu’il active son pouvoir de Pourfendeur marqué ?",
+        "options": [
+            "Une flamme",
+            "Un tourbillon",
+            "Une cicatrice en forme de feu",
+            "Un motif de flamme ressemblant au Soleil"
+        ],
+        "answer": "Un motif de flamme ressemblant au Soleil"
+    },
+    {
+        "id": 124,
+        "difficulty": "facile",
+        "question": "Quel est le lien familial entre Yoriichi Tsugikuni et Kokushibo ?",
+        "options": [
+            "Frères jumeaux",
+            "Cousins éloignés",
+            "Oncle et neveu",
+            "Ancien maître et disciple"
+        ],
+        "answer": "Frères jumeaux"
+    },
+    {
+        "id": 125,
+        "difficulty": "expert",
+        "question": "Quelle est la signification symbolique du motif en forme de soleil sur les boucles d’oreilles hanafuda de Tanjiro, d’après les écrits de Sumiyoshi dans le manga ?",
+        "options": [
+            "La promesse de protéger la lignée Tsugikuni",
+            "Un symbole de gratitude envers Yoriichi",
+            "La renaissance éternelle du Souffle du Soleil",
+            "Une marque d’appartenance à la famille Kamado"
+        ],
+        "answer": "La renaissance éternelle du Souffle du Soleil"
+    },
+    {
+        "id": 126,
+        "difficulty": "expert",
+        "question": "Quel était le nom du premier utilisateur connu du Souffle de la Lune avant Kokushibo ?",
+        "options": [
+            "Yoriichi Tsugikuni",
+            "Aucun, Kokushibo en est le créateur",
+            "Michikatsu avant sa transformation",
+            "Sumiyoshi"
+        ],
+        "answer": "Aucun, Kokushibo en est le créateur"
+    },
+    {
+        "id": 127,
+        "difficulty": "expert",
+        "question": "Quelle technique secrète de la 13e forme du Souffle du Soleil Tanjiro devait-il exécuter pour vaincre Muzan ?",
+        "options": [
+            "Relier en continu les 12 formes sans interruption",
+            "Fusionner la Respiration de l’Eau et du Soleil",
+            "Créer une 14e forme pour briser le cœur de Muzan",
+            "Activer la Marque du Pourfendeur et la Flamme Écarlate simultanément"
+        ],
+        "answer": "Relier en continu les 12 formes sans interruption"
+    },
+    {
+        "id": 128,
+        "difficulty": "expert",
+        "question": "Quelle est la durée exacte pendant laquelle Yoriichi a combattu Muzan lors de leur première rencontre ?",
+        "options": [
+            "Moins d’une minute",
+            "Environ deux minutes",
+            "Dix minutes",
+            "Plus d’une heure"
+        ],
+        "answer": "Moins d’une minute"
+    },
+    {
+        "id": 129,
+        "difficulty": "expert",
+        "question": "Combien de maris Mitsuri Kanroji a-t-elle envisagé avant de devenir Pilier de l’Amour, selon les databooks officiels ?",
+        "options": [
+            "Un seul",
+            "Trois",
+            "Cinq",
+            "Aucun"
+        ],
+        "answer": "Trois"
+    },
+    {
+        "id": 130,
+        "difficulty": "expert",
+        "question": "Quel est le seul démon à avoir survécu à l’attaque de Yoriichi Tsugikuni sans être décapité ?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Kokushibo",
+            "Akaza",
+            "Douma"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "id": 131,
+        "difficulty": "expert",
+        "question": "Quel est le nom de la fleur rare utilisée dans le médicament final de Tamayo pour neutraliser Muzan ?",
+        "options": [
+            "Blue Spider Lily",
+            "Lys écarlate de l’aube",
+            "Fleur d’éternité",
+            "Aucune, le remède est purement chimique"
+        ],
+        "answer": "Blue Spider Lily"
+    },
+    {
+        "id": 132,
+        "difficulty": "expert",
+        "question": "Quelle est la première victime humaine connue de Muzan Kibutsuji dans les récits historiques ?",
+        "options": [
+            "Un médecin anonyme de l’ère Heian",
+            "Sa propre épouse",
+            "Un moine itinérant",
+            "Un noble du clan Tsugikuni"
+        ],
+        "answer": "Un médecin anonyme de l’ère Heian"
+    },
+    {
+        "id": 133,
+        "difficulty": "expert",
+        "question": "Quelle technique secrète Akaza refuse-t-il d’utiliser jusqu’à sa mort, par principe d’honneur ?",
+        "options": [
+            "Technique de Destruction Totale",
+            "Technique Ultime de la Destruction Compétente",
+            "Technique Suprême du Compas de Combat",
+            "Art Démoniaque du Sang – Régénération Absolue"
+        ],
+        "answer": "Technique Ultime de la Destruction Compétente"
+    },
+    {
+        "id": 134,
+        "difficulty": "expert",
+        "question": "Quel est le nom du forgeron légendaire qui a créé le tout premier katana de Nichirin dans l’histoire du manga ?",
+        "options": [
+            "Kotetsu Ancestor",
+            "Tecchin le Premier",
+            "Yoriichi lui-même",
+            "Inconnu, jamais révélé"
+        ],
+        "answer": "Inconnu, jamais révélé"
+    },
+    {
+        "id": 135,
+        "difficulty": "expert",
+        "question": "Combien de formes distinctes comporte réellement le Souffle de la Bête d’Inosuke, si l’on inclut ses variations improvisées ?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "11"
+        ],
+        "answer": "11"
+    },
+    {
+        "id": 136,
+        "difficulty": "expert",
+        "question": "Quel est le seul Pilier à n’avoir jamais utilisé sa marque de Pourfendeur malgré l’avoir éveillée ?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka",
+            "Gyomei Himejima",
+            "Muichiro Tokito"
+        ],
+        "answer": "Giyu Tomioka"
+    },
+    {
+        "id": 137,
+        "difficulty": "expert",
+        "question": "Quel âge avait Gyomei Himejima lorsqu’il est devenu Pilier de la Roche ?",
+        "options": [
+            "19 ans",
+            "21 ans",
+            "23 ans",
+            "27 ans"
+        ],
+        "answer": "27 ans"
+    },
+    {
+        "id": 138,
+        "difficulty": "expert",
+        "question": "Quel était le nom du démon qui servait directement sous Kokushibo et fut tué par Muichiro Tokito ?",
+        "options": [
+            "Kaigaku",
+            "Gyutaro",
+            "Upper Rank 5 – Gyokko",
+            "Upper Rank 5 – Gyokko"
+        ],
+        "answer": "Upper Rank 5 – Gyokko"
+    },
+    {
+        "id": 139,
+        "difficulty": "expert",
+        "question": "Combien de cicatrices distinctes Muzan possède-t-il après son affrontement avec Yoriichi ?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "Plus de 1500"
+        ],
+        "answer": "Plus de 1500"
+    },
+    {
+        "id": 140,
+        "difficulty": "expert",
+        "question": "Quel détail permet de différencier le Souffle du Soleil original de celui que pratique Tanjiro ?",
+        "options": [
+            "Le rythme respiratoire est plus rapide",
+            "L’ordre des formes est inversé",
+            "Tanjiro mélange involontairement le Souffle de l’Eau",
+            "Il n’utilise pas la 13e forme"
+        ],
+        "answer": "Tanjiro mélange involontairement le Souffle de l’Eau"
+    },
+    {
+        "id": 141,
+        "difficulty": "expert",
+        "question": "Quelle est la seule faiblesse du Souffle du Son d’après Tengen Uzui lui-même ?",
+        "options": [
+            "Sa dépendance au rythme sonore",
+            "Le manque de puissance brute",
+            "Une consommation d’oxygène trop élevée",
+            "L’incapacité à détecter les attaques rapides"
+        ],
+        "answer": "Une consommation d’oxygène trop élevée"
+    },
+    {
+        "id": 142,
+        "difficulty": "expert",
+        "question": "Quelle pilule secrète Shinobu utilise-t-elle avant son affrontement final avec Dôma ?",
+        "options": [
+            "Une pilule à base de glycine pour neutraliser la douleur",
+            "Une pilule de poison concentré de glycine",
+            "Une pilule d’absorption sanguine",
+            "Une pilule de régénération instantanée"
+        ],
+        "answer": "Une pilule de poison concentré de glycine"
+    },
+    {
+        "id": 143,
+        "difficulty": "expert",
+        "question": "Quel élément du passé de Sabito explique sa colère envers Giyu lors de leur entraînement ?",
+        "options": [
+            "Giyu voulait abandonner la sélection finale",
+            "Sabito a survécu grâce à Giyu",
+            "Giyu doutait de sa propre force",
+            "Giyu avait trahi un ordre de Sakonji Urokodaki"
+        ],
+        "answer": "Giyu doutait de sa propre force"
+    },
+    {
+        "id": 144,
+        "difficulty": "expert",
+        "question": "Quel est le symbole gravé sur le manche du katana de Yoriichi Tsugikuni ?",
+        "options": [
+            "Un soleil",
+            "Une fleur de lotus",
+            "Un croissant de lune inversé",
+            "Aucun symbole visible"
+        ],
+        "answer": "Un soleil"
+    },
+    {
+    "id": 145,
+    "difficulty": "difficile",
+    "question": "Quand Tanjiro rencontre Muzan pour la première fois dans la ville, que fait exactement Muzan pour se dissimuler ?",
+    "options": [
+      "Il change son odeur grâce à une technique",
+      "Il se transforme physiquement et se fait passer pour un humain marié",
+      "Il hypnotise les passants",
+      "Il fuit à grande vitesse dans la foule"
+    ],
+    "answer": "Il se transforme physiquement et se fait passer pour un humain marié"
+  },
+  {
+    "id": 146,
+    "difficulty": "difficile",
+    "question": "Pourquoi Inosuke porte-t-il toujours la tête de sanglier ?",
+    "options": [
+      "C’est un trophée de chasse",
+      "Elle appartenait à sa mère adoptive",
+      "C’est la tête de l’animal qui l’a élevé",
+      "C’est une simple habitude sans signification"
+    ],
+    "answer": "C’est la tête de l’animal qui l’a élevé"
+  },
+  {
+    "id": 147,
+    "difficulty": "difficile",
+    "question": "Quelle technique particulière Tanjiro apprend-il en observant un démon au lieu d’un Pourfendeur ?",
+    "options": [
+      "La rotation des lames inversées",
+      "La gestion du souffle pendant la régénération",
+      "La stabilité du regard pendant une attaque",
+      "Le mouvement circulaire de Kyogai"
+    ],
+    "answer": "Le mouvement circulaire de Kyogai"
+  },
+  {
+    "id": 148,
+    "difficulty": "difficile",
+    "question": "Quel élément surprenant Zenitsu perçoit-il quand il dort ?",
+    "options": [
+      "Il entend les battements de cœur autour de lui",
+      "Il ressent les vibrations des émotions",
+      "Il ne dort pas vraiment, il médite",
+      "Il ne perçoit rien, il agit par réflexe"
+    ],
+    "answer": "Il entend les battements de cœur autour de lui"
+  },
+  {
+    "id": 149,
+    "difficulty": "difficile",
+    "question": "Quel aliment Nezuko refuse-t-elle catégoriquement après sa transformation ?",
+    "options": ["Le riz", "Le thé vert", "Les haricots rouges", "Tout aliment humain"],
+    "answer": "Tout aliment humain"
+  },
+  {
+    "id": 150,
+    "difficulty": "difficile",
+    "question": "Que devient la cicatrice sur le front de Tanjiro au fil de la série ?",
+    "options": [
+      "Elle disparaît avec le temps",
+      "Elle s’élargit et change de forme",
+      "Elle saigne à chaque combat",
+      "Elle devient une marque démoniaque"
+    ],
+    "answer": "Elle s’élargit et change de forme"
+  },
+  {
+    "id": 151,
+    "difficulty": "difficile",
+    "question": "Quelle est la particularité du sabre noir de Tanjiro selon les forgerons ?",
+    "options": [
+      "Il prédit la mort de son porteur",
+      "Il absorbe la lumière du soleil",
+      "Il devient rouge lorsqu’il est chauffé",
+      "Il change de couleur à chaque pleine lune"
+    ],
+    "answer": "Il prédit la mort de son porteur"
+  },
+  {
+    "id": 152,
+    "difficulty": "difficile",
+    "question": "Que crie Tengen Uzui avant d’affronter Gyutaro et Daki ensemble ?",
+    "options": [
+      "C’est une mission normale !",
+      "Montrez-moi votre rythme !",
+      "C’est le moment d’être flamboyant !",
+      "Que la fête commence !"
+    ],
+    "answer": "C’est le moment d’être flamboyant !"
+  },
+  {
+    "id": 153,
+    "difficulty": "difficile",
+    "question": "Pourquoi Muzan laisse-t-il parfois certains démons s’entre-tuer sans intervenir ?",
+    "options": [
+      "Il teste leur loyauté et leur puissance",
+      "Il ne peut pas les contrôler tous à la fois",
+      "Il se nourrit de leur colère",
+      "Il ignore volontairement leurs querelles"
+    ],
+    "answer": "Il teste leur loyauté et leur puissance"
+  }
+  
+]

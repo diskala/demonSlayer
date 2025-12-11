@@ -18,6 +18,7 @@ require('dotenv').config();
 const connectDB = require('./database');
 connectDB();
 const app = express();
+
  
 const server = require('http').createServer(app);
 const io = require('socket.io')(server, { cors: { origin: '*' } });
@@ -54,6 +55,8 @@ app.use(cors());
 // app.use(xss());
 app.use(bodyparser.urlencoded({ extended: true }));
 app.use(bodyparser.json());
+// Parse le JSON pour toutes les routes POST/PUT
+app.use(express.json());
 
 io.on('connection', (socket) => {
   console.log('New client connected');
@@ -86,9 +89,15 @@ app.use(express.static(path.join(__dirname, "public")));
 const routeUsers = require('./Route/UsersRoutes');
 const routeParticipant = require('./Route/ParticipantRoute');
 const routeSessionQuiz = require('./Route/SessionQuizRoute');
+const routesapiQuiz = require('./Route/ApiQuizRoute');
+const RoutePersonnages=require('./Route/PersonnageRoute');
+const RouteStyleCombat=require('./Route/StyleDeCombatRoute');
 app.use(routeUsers);
 app.use(routeParticipant);
 app.use(routeSessionQuiz);
+app.use(routesapiQuiz);
+app.use(RoutePersonnages);
+app.use(RouteStyleCombat);
 server.listen(port, () => {
   console.log(`Serveur demarre sur http://localhost:${port}`);
 });
