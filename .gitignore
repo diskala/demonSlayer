@@ -5,6 +5,8 @@ nodedemonslayer/logs/
 nodedemonslayer/tmp/
 nodedemonslayer/debug.log
 nodedemonslayer/npm-debug.log*
+nodedemonslayer/public/photoProfil/
+**/public/photoProfil/
 
 # === React frontend (reactdemonslayer) ===
 reactdemonslayer/node_modules/
